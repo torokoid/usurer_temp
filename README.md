@@ -240,7 +240,7 @@ p.note { display: none; }
     <div class="section">
       <p class="auto-style">■令和8年度　年間予定表■<br></p>
       <br>
-        <table style="width:100%;text-align:center" border="1">
+        <table style="width:none;text-align:center" border="1">
 			<tr style="text-align:center">
 				<td><b>事業名</b></td><td><b>期日</b></td><td><b>場所</b></td>
 			</tr>
