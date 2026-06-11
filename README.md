@@ -128,7 +128,7 @@ p.note { display: none; }
 }
 
 #main {
-    width: 100%;
+    width: none;
     max-width: none;
 }
     
