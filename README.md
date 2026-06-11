@@ -128,8 +128,16 @@ p.note { display: none; }
 }
 
 #main {
-    width: none;
-    max-width: none;
+    width: 100%;
+    max-width: 100%;
+}
+
+.section {
+    width: 100%;
+}
+
+table {
+    width: 100% !important;
 }
     
     
