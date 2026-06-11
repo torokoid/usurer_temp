@@ -126,6 +126,18 @@ p.note { display: none; }
   height: 100%;
   border: none;
 }
+
+table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 8px;
+    word-break: break-word;
+    font-size: 1rem;
+}
     
     
 </style>
