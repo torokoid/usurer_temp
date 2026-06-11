@@ -152,6 +152,12 @@ table {
   border-collapse: collapse; /* 枠線を重ねてきれいにする */
   table-layout: auto;    /* コンテンツに合わせて幅を調整 */
 }
+
+th, td {
+  padding: 12px 15px;    /* 上下12px、左右15pxの余白 */
+  border: 1px solid #ccc; /* 枠線が見えるようにする */
+  text-align: left;      /* 左揃え */
+}
     
 </style>
 
