@@ -144,11 +144,7 @@ p.note { display: none; }
     width: 100%;
 }
 
-table {
-  width: auto;           /* 自動 */
-  border-collapse: collapse; /* 枠線を重ねてきれいにする */
-  table-layout: auto;    /* コンテンツに合わせて幅を調整 */
-}
+
 
 th, td {
   padding: 12px 15px;    /* 上下12px、左右15pxの余白 */
@@ -181,18 +177,7 @@ th, td {
 	font-size:16pt;
 }
 
-/*テーブル*/
-.table_01 {
-	margin-bottom:20px;
-}
-.table_01 th,.table_01 td {
-	border-bottom:1px dotted #dfdfdf;
-	padding:13px 15px 13px 15px;
-}
-.table_01 th {
-	font-weight:bold;
-	color:#30466F;
-}
+
 
     
 </style>
