@@ -181,6 +181,10 @@ th, td {
 	font-size:16pt;
 }
 
+table {
+	border-collapse:collapse;
+	border-spacing:0
+}
     
 </style>
 <!--
