@@ -181,14 +181,19 @@ th, td {
 	font-size:16pt;
 }
 
-body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
-	margin:0;
-	padding:0
+/*テーブル*/
+.table_01 {
+	margin-bottom:20px;
 }
-table {
-	border-collapse:collapse;
-	border-spacing:0
+.table_01 th,.table_01 td {
+	border-bottom:1px dotted #dfdfdf;
+	padding:13px 15px 13px 15px;
 }
+.table_01 th {
+	font-weight:bold;
+	color:#30466F;
+}
+
     
 </style>
 <!--
