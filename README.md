@@ -362,8 +362,7 @@ th, td {
       <p class="auto-style">
 	  <img src="https://www.usuiren.com/images/common/icon_tel.gif" class="auto-style5">&emsp;TEL:028-639-7777<br>
 	  <a href="mailto:usuiren7777@gmail.com">お問い合わせメール作成はここをクリック</a>
-    </div>
-  </div>
+
   <!--メイン終了-->
 
 <br><br>
