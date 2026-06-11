@@ -127,16 +127,9 @@ p.note { display: none; }
   border: none;
 }
 
-table {
+#main {
     width: 100%;
-    table-layout: fixed;
-    border-collapse: collapse;
-}
-
-td, th {
-    padding: 8px;
-    word-break: break-word;
-    font-size: 1rem;
+    max-width: none;
 }
     
     
