@@ -465,14 +465,14 @@ th, td {
 <p>Copyright 2026/06/11 S.Hada</p>
 </footer>
 
-<!--HPにさまざまなJavaScriptを呼び込むための書式-->
+<!--HPにさまざまなJavaScriptを呼び込むための書式--><!--
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
 
 <script type='text/javascript' src='https://torokoid.github.io/shiba/jquery.js?ver=1.12.4'></script>
 <script src="https://torokoid.github.io/shiba/jquery.goup.min.js"></script>
 <script src="https://torokoid.github.io/shiba/my.js"></script>
-
+-->
     </body>
     
 </html>
