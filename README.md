@@ -158,6 +158,32 @@ th, td {
   border: 1px solid #ccc; /* 枠線が見えるようにする */
   text-align: left;      /* 左揃え */
 }
+
+.auto-style1 {
+	font-style:normal;
+	font-family:"UD デジタル 教科書体 NP-B";
+	font-size:28pt;
+}
+.auto-style2 {
+	font-style:normal;
+	font-family:"UD デジタル 教科書体 NP-B";
+	font-size:14pt;
+}
+.auto-style3 {
+	font-style:normal;
+	font-family:"UD デジタル 教科書体 NP-B";
+	font-size:12pt;
+}
+.auto-style4 {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.auto-style5 {
+	font-style:normal;
+	font-family:"UD デジタル 教科書体 NP-B";
+	font-size:16pt;
+}
+
     
 </style>
 
@@ -264,12 +290,11 @@ th, td {
 <!--メイン-->
   <div id="main">
     <div class="section">
-      <p class="auto-style">■令和8年度　年間予定表■<br></p>
+      <p class="auto-style5">■令和8年度　年間予定表■<br></p>
       <br>
-		<div class="schedule-area">
-		<table style="width:100%;text-align:center" border="1" class="auto-style3">
+        <table style="width:100%;text-align:center" border="1" class="auto-style3">
 			<tr style="text-align:center">
-				<td><b>事業名</b></td><td><b>期日</b></td><td><b>場所</b></td>
+				<td class="auto-style2"><b>事業名</b></td><td class="auto-style2"><b>期日</b></td><td class="auto-style2"><b>場所</b></td>
 			</tr>
 			<tr>
 				<td>役員会</td><td>4月18日（土）</td><td>中央生涯学習センター</td>
@@ -300,7 +325,7 @@ th, td {
 				
 			</tr>
 		</table>
-		</div>
+    </div>
     </div>
 
 　<div class="section">
