@@ -375,7 +375,7 @@ th, td {
       <br>
       <p class="auto-style"><u>水泳連盟の活動に関するお問い合わせ、及び各種、水泳大会申込み及びお問い合わせを承っております。</u></p>
       <br>
-      <p class="auto-style">宇都宮市水泳連盟事務局<br>〒320-0043<br>宇都宮市桜5-2-5&emsp;（ビッグツリースポーツクラブ内）</p>
+      <p class="auto-style">宇都宮市水泳連盟事務局<br>〒320-0043<br>宇都宮市桜5-2-5　（ビッグツリースポーツクラブ内）</p>
       <p class="auto-style">
 	  <img src="https://www.usuiren.com/images/common/icon_tel.gif" class="auto-style5">&emsp;TEL:028-639-7777<br>
 	  <a href="mailto:usuiren7777@gmail.com">お問い合わせメール作成はここをクリック</a>
