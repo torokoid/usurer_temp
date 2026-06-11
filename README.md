@@ -135,9 +135,6 @@ p.note { display: none; }
     width: 100%;
 }
 
-table {
-    width: 100% !important;
-}
 
 .schedule-area {
     width: 100%;
