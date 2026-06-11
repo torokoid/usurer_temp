@@ -146,6 +146,26 @@ table {
 .schedule-area table {
     width: 100%;
 }
+
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+th:nth-child(1),
+td:nth-child(1) {
+    width: 25%;
+}
+
+th:nth-child(2),
+td:nth-child(2) {
+    width: 45%;
+}
+
+th:nth-child(3),
+td:nth-child(3) {
+    width: 30%;
+}
     
 </style>
 
@@ -246,7 +266,7 @@ table {
 <br><br>
 <!--ビジュアル-->
 <div id="ttl_catch">
-  <h2 class="auto-style2"><b>年間予定</b></h2>
+  <h2 class="auto-style"><b>年間予定</b></h2>
 </div>
 <!--ビジュアル終了-->
 <!--メイン-->
@@ -255,7 +275,7 @@ table {
       <p class="auto-style">■令和8年度　年間予定表■<br></p>
       <br>
 		<div class="schedule-area">
-        <table style="width:none;text-align:center" border="1">
+        <table style="width:100%;text-align:center" border="1">
 			<tr style="text-align:center">
 				<td><b>事業名</b></td><td><b>期日</b></td><td><b>場所</b></td>
 			</tr>
