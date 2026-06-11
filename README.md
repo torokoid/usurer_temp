@@ -358,9 +358,8 @@ th, td {
       （無償配布されています。下のロゴをクリックして下さい。）<br>
       <a href="https://get.adobe.com/jp/reader/"><img src="https://www.usuiren.com/images/common/Acrobat_Reader_web_button.png"></a>
       </p></h6>
+      </div>
     </div>
-
- </div>
   <!--メイン終了-->
 
 <br><br><br><br>
