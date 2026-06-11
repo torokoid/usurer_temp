@@ -145,7 +145,7 @@ p.note { display: none; }
 }
 
 table {
-  width: 100%;           /* 枠いっぱいに広げる */
+  width: auto;           /* 自動 */
   border-collapse: collapse; /* 枠線を重ねてきれいにする */
   table-layout: auto;    /* コンテンツに合わせて幅を調整 */
 }
