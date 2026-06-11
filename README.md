@@ -148,23 +148,9 @@ table {
 }
 
 table {
-    width: 100%;
-    table-layout: fixed;
-}
-
-th:nth-child(1),
-td:nth-child(1) {
-    width: 25%;
-}
-
-th:nth-child(2),
-td:nth-child(2) {
-    width: 45%;
-}
-
-th:nth-child(3),
-td:nth-child(3) {
-    width: 30%;
+  width: 100%;           /* 枠いっぱいに広げる */
+  border-collapse: collapse; /* 枠線を重ねてきれいにする */
+  table-layout: auto;    /* コンテンツに合わせて幅を調整 */
 }
     
 </style>
