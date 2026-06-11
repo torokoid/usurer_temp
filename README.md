@@ -153,7 +153,7 @@ table {
 th, td {
   padding: 12px 15px;    /* 上下12px、左右15pxの余白 */
   border: 1px solid #ccc; /* 枠線が見えるようにする */
-  text-align: left;      /* 左揃え */
+  text-align: center;      /* 中央揃え */
 }
 
 .auto-style1 {
