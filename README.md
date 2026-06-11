@@ -235,9 +235,9 @@ p.note { display: none; }
     <div class="section">
       <p class="auto-style">■令和8年度　年間予定表■<br></p>
       <br>
-        <table style="width:100%;text-align:center" border="1" class="auto-style3">
+        <table style="width:100%;text-align:center" border="1" class="auto-style">
 			<tr style="text-align:center">
-				<td class="auto-style"><b>事業名</b></td><td class="auto-style2"><b>期日</b></td><td class="auto-style2"><b>場所</b></td>
+				<td class="auto-style"><b>事業名</b></td><td class="auto-style"><b>期日</b></td><td class="auto-style"><b>場所</b></td>
 			</tr>
 			<tr>
 				<td>役員会</td><td>4月18日（土）</td><td>中央生涯学習センター</td>
