@@ -275,7 +275,7 @@ td:nth-child(3) {
       <p class="auto-style">■令和8年度　年間予定表■<br></p>
       <br>
 		<div class="schedule-area">
-        <table style="width:100%;text-align:center" border="1">
+		<table border="1" class="schedule-table">
 			<tr style="text-align:center">
 				<td><b>事業名</b></td><td><b>期日</b></td><td><b>場所</b></td>
 			</tr>
