@@ -440,9 +440,7 @@ th, td {
 <!--画面に空白地帯を作って、背景が見えるようにしています-->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-    </body>
-    
-</html>
+
 
 <!-- フッタ -->
 <footer>
