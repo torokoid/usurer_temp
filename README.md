@@ -450,7 +450,7 @@ th, td {
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2026/06/11 S.Hada</p>
+<p>Copyright 2026/06/12 宇都宮市水泳連盟</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式--><!--
