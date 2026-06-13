@@ -330,7 +330,7 @@ th, td {
 　<div class="section">
   <p><span class="yellow">記入した申し込み用紙は下記「メール送信」をクリックして開くメールにて受け付けます</span></p>
   
-     <p><a href="mailto:usuiren7777@gmail.com">メール送信</a></p>
+     <p><a href="mailto:usuiren7777@gmail.com">メール送信 ← クリック</a></p>
 
 </div>
 
