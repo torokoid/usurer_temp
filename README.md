@@ -225,8 +225,8 @@ th, td {
   	  <table style="width: 100%">
 		  <tr>
 			  <td><img src="top1.jpg" class="auto-style4" width="310"></td>
-			  <td><img src="https://www.usuiren.com/images/top/top2.jpg" class="auto-style5" width="310"></td>
-			  <td><img src="https://www.usuiren.com/images/top/top3.jpg" class="auto-style4" width="310"></td>
+			  <td><img src="top2.jpg" class="auto-style5" width="310"></td>
+			  <td><img src="top3.jpg" class="auto-style4" width="310"></td>
 		  </tr>
 	  </table>  
   	</div>
@@ -249,7 +249,7 @@ th, td {
       <dl class="auto-style">        
       
 		<h2><dt>2026.06.08</dt>
-        <dd><a href="schedule.html">年間予定表</a>を更新しました。
+        <dd><a>年間予定表</a>を更新しました。
         <br>
         </dd></h2>
                 
@@ -304,11 +304,11 @@ th, td {
 			</tr>
 			
 			<tr>
-				<td>市民大会前レッスン会</td><td>6月20日（土）<br><a href="https://www.usuiren.com/event/市民大会事前レッスン会要項.pdf">市民大会事前レッスン会要項(pdf)</a></td><td>日環アリーナ栃木</td>
+				<td>市民大会前レッスン会</td><td>6月20日（土）<br><a href="市民大会事前レッスン会要項.pdf">市民大会事前レッスン会要項(pdf)</a></td><td>日環アリーナ栃木</td>
 			</tr>
 			
 			<tr>
-				<td>市民水泳大会</td><td>6月28日（日）<br><a href="https://www.usuiren.com/event/2026市民大会要項.pdf">大会要項(pdf)</a><br><a href="https://www.usuiren.com/event/2026年市民大会申込書.xlsx">申込用紙(Excel)</a><br><a href="https://www.usuiren.com/event/2026大会広告案内.xls">大会広告案内(Excel)</a></td><td>ドリームプールかわち</td>
+				<td>市民水泳大会</td><td>6月28日（日）<br><a href="2026市民大会要項.pdf">大会要項(pdf)</a><br><a href="2026年市民大会申込書.xlsx">申込用紙(Excel)</a><br><a href="2026大会広告案内.xls">大会広告案内(Excel)</a></td><td>ドリームプールかわち</td>
 			</tr>
 			<tr>
 				<td>ジュニア水泳教室</td><td>今年度は駅東公園プールが<br>使用出来ないため中止となります</td><td>駅東公園プール</td>
@@ -319,7 +319,7 @@ th, td {
 			</tr>
 			
 			<tr>
-				<td>市小学生水泳大会</td><td>9月6日（日）<br><a href="https://www.usuiren.com/event/2026小学生大会要項.pdf">大会要項(pdf)</a><br><a href="https://www.usuiren.com/event/2026年小学生大会申込書.xlsx">申込用紙(Excel)</a><br><a href="https://www.usuiren.com/event/2026大会広告案内.xls">大会広告案内(Excel)</a></td><td>ドリームプールかわち</td>
+				<td>市小学生水泳大会</td><td>9月6日（日）<br><a href="2026小学生大会要項.pdf">大会要項(pdf)</a><br><a href="2026年小学生大会申込書.xlsx">申込用紙(Excel)</a><br><a href="2026大会広告案内.xls">大会広告案内(Excel)</a></td><td>ドリームプールかわち</td>
 			</tr>
 
 		</table>
@@ -345,7 +345,7 @@ th, td {
       コンテンツ内にはPDF形式で掲載しているものがあります。<br>
       表示・印刷にはAdobe Acrobat Readerが必要です。<br>
       （無償配布されています。下のロゴをクリックして下さい。）<br>
-      <a href="https://get.adobe.com/jp/reader/"><img src="https://www.usuiren.com/images/common/Acrobat_Reader_web_button.png"></a>
+      <a href="https://get.adobe.com/jp/reader/"><img src="Acrobat_Reader_web_button.png"></a>
       </p></h6>
       </div>
     </div>
@@ -366,7 +366,7 @@ th, td {
       <br>
       <p class="auto-style">宇都宮市水泳連盟事務局<br>〒320-0043<br>宇都宮市桜5-2-5　（ビッグツリースポーツクラブ内）</p>
       <p class="auto-style">
-	  <img src="https://www.usuiren.com/images/common/icon_tel.gif" class="auto-style5">&emsp;TEL:028-639-7777<br>
+	  <img src="icon_tel.gif" class="auto-style5">&emsp;TEL:028-639-7777<br>
 	  <a href="mailto:usuiren7777@gmail.com">お問い合わせメール作成はここをクリック</a>
 
   <!--メイン終了-->
@@ -382,14 +382,14 @@ th, td {
     <div class="section">
       <p class="auto-style">&emsp;<u>■県庁・市役所関連■</u><br></p>
       <p class="auto-style">
-      &emsp;&emsp;<a href="http://www.pref.tochigi.lg.jp/"><img src="https://www.usuiren.com/images/common/link_bnr2.png"></a><br>
+      &emsp;&emsp;<a href="http://www.pref.tochigi.lg.jp/"><img src="link_bnr2.png"></a><br>
       &emsp;&emsp;<a href="http://www.pref.tochigi.lg.jp/">栃木県</a><br>
-      &emsp;&emsp;<a href="https://www.city.utsunomiya.tochigi.jp/"><img src="https://www.usuiren.com/images/common/link_bnr3.png"></a><br>
+      &emsp;&emsp;<a href="https://www.city.utsunomiya.tochigi.jp/"><img src="link_bnr3.png"></a><br>
       &emsp;&emsp;<a href="https://www.city.utsunomiya.tochigi.jp/">宇都宮市</a><br></p>
       <br>
       <p class="auto-style">&emsp;<u>■水泳関連■</u><br></p>
       <p class="auto-style">
-      &emsp;&emsp;<a href="http://www.swim.or.jp/"><img src="https://www.usuiren.com/images/common/link_bnr1.gif"></a><br>
+      &emsp;&emsp;<a href="http://www.swim.or.jp/"><img src="link_bnr1.gif"></a><br>
       &emsp;&emsp;<a href="http://www.swim.or.jp/">日本水泳連盟</a><br>
       &emsp;&emsp;<a href="http://www.tochigi-swim.com/">栃木県水泳連盟</a><br></p>
     </div>
