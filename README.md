@@ -292,7 +292,7 @@ th, td {
       <p class="auto-style5">■令和8年度　年間予定表■<br></p>
       <br>
 		<div class="media-container">
-        <table style="width:auto;text-align:center" border="1" class="auto-style3">
+        <table>
 			<tr style="text-align:center">
 				<td class="auto-style2"><b>事業名</b></td><td class="auto-style2"><b>期日</b></td><td class="auto-style2"><b>場所</b></td>
 			</tr>
