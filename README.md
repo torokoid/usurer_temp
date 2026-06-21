@@ -304,7 +304,7 @@ th, td {
 			</tr>
 			
 			<tr>
-				<td>市民大会前レッスン会</td><td>6月20日（土）<br><a href="市民大会事前レッスン会要項.pdf">市民大会事前レッスン会要項(pdf)</a></td><td>日環アリーナ栃木</td>
+				<td>市民大会前レッスン会</td><td>6月20日（土）<br><a href="市民大会事前レッスン会要項.pdf">市民大会事前レッスン会要項(pdf)</a><br><a href="https://docs.google.com/forms/d/e/1FAIpQLSctMDSxYsLVicJC8jNxzTMdv6sZ_xg6HAlj-Y4fVRnAz0gwOA/viewform">上記資料のQRコードリンク先申し込みフォーム</a></td><td>日環アリーナ栃木</td>
 			</tr>
 			
 			<tr>
