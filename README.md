@@ -204,8 +204,8 @@ th, td {
 <!--ここ上は、ほぼそのまま使います！-->
 
 
-<!--QRコードの挿入例--><!--
-<p align="left"> <img src="QR_2026Jun10.png" alt="アクセス用QRコード" width="100">QR for Access</p>
+<!--QRコードの挿入例-->
+<p align="left"> <img src="QR_2026Jun28.png" alt="アクセス用QRコード" width="100">QR for Access</p><!--
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">宇都宮市水泳連盟</marquee></p>
 -->
 
@@ -450,7 +450,7 @@ th, td {
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2026/06/12 宇都宮市水泳連盟</p>
+<p>Copyright 2026/06/28 宇都宮市水泳連盟</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式--><!--
