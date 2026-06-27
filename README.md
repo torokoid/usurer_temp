@@ -308,7 +308,7 @@ th, td {
 			</tr>
 			
 			<tr>
-				<td>市民水泳大会</td><td>6月28日（日）<br><a href="2026市民大会要項.pdf">大会要項(pdf)</a><br><a href="2026年市民大会申込書.xlsx">申込用紙(Excel)</a><br><a href="2026大会広告案内.xls">大会広告案内(Excel)</a></td><td>ドリームプールかわち</td>
+				<td>市民水泳大会</td><td>6月28日（日）<br><a href="2026市民大会要項.pdf">大会要項(pdf)</a><br><a href="2026年市民大会申込書.xlsx">申込用紙(Excel)</a><br><a href="https://www.usuiren.com/event/2026市民大会2次要項.pdf">2026市民大会2次要項(pdf)</a><br><a href="https://www.usuiren.com/event/2026市民大会リレーオーダー用紙.pdf">2026市民大会リレーオーダー用紙(pdf)</a><br><a href="https://www.usuiren.com/event/2026大会広告案内.xls">大会広告案内(Excel)</a></td><td>ドリームプールかわち</td>
 			</tr>
 			<tr>
 				<td>ジュニア水泳教室</td><td>今年度は駅東公園プールが<br>使用出来ないため中止となります</td><td>駅東公園プール</td>
