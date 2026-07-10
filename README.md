@@ -61,7 +61,7 @@ animation:blink 1.5s ease-in-out infinite alternate;
 
 #wrap {background:none} /*PC用の背景はオフ*/
 
-/*背景を表示させる部分*/
+/*背景を表示させる部分
 body::before {
 content:"";
 display:block;
@@ -73,7 +73,7 @@ width:100%;
 height:100vh;
 background:url(https://www.usuiren.com/images/top/top1.) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
-}
+}*/
 
 a.p:hover {
 position: relative;
@@ -183,6 +183,21 @@ th, td {
 
 
 
+
+#bg-video {
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    width: 100%;
+    height: 100%;
+
+    object-fit: cover;
+
+    z-index: -1;
+}
+
+
     
 </style>
 <!--
@@ -192,7 +207,9 @@ th, td {
 
 <body>
     
-
+<video id="bg-video" autoplay muted loop playsinline>
+    <source src="https://torokoid.github.io/usurer_temp/background.mp4" type="video/mp4">
+</video>
 
 
 <p class="note">
