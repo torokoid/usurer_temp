@@ -199,7 +199,18 @@ th, td {
     z-index: -1;
 }
 
+#overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
 
+    width: 100%;
+    height: 100%;
+
+    background: rgba(255,255,255,0.3);
+
+    z-index: -1;
+}
     
 </style>
 <!--
@@ -208,11 +219,12 @@ th, td {
 </head>
 
 <body>
-    
+
+<div id="overlay">
 <video id="bg-video" autoplay muted loop playsinline>
     <source src="https://torokoid.github.io/usurer_temp/background.mp4" type="video/mp4">
 </video>
-
+</div>
 
 <p class="note">
 モバイル端末をお使いの場合は、画面を横向きにすると
