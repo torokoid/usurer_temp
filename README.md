@@ -61,7 +61,8 @@ animation:blink 1.5s ease-in-out infinite alternate;
 
 #wrap {background:none} /*PC用の背景はオフ*/
 
-/*背景を表示させる部分
+/*背景を表示させる部分*/
+/*
 body::before {
 content:"";
 display:block;
@@ -73,7 +74,8 @@ width:100%;
 height:100vh;
 background:url(https://www.usuiren.com/images/top/top1.) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
-}*/
+/*}*/
+
 
 a.p:hover {
 position: relative;
