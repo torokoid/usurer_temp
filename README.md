@@ -186,30 +186,32 @@ th, td {
 
 
 
-#bg-video {
-    position: fixed;
-    top: 0;
-    left: 0;
+#bg-video{
+    position:fixed;
+    top:0;
+    left:0;
 
-    width: 100%;
-    height: 100%;
+    width:100%;
+    height:100%;
 
-    object-fit: cover;
+    object-fit:cover;
 
-    z-index: -1;
+    z-index:-2;
 }
 
-#overlay {
-    position: fixed;
-    top: 0;
-    left: 0;
+#overlay{
+    position:fixed;
+    top:0;
+    left:0;
 
-    width: 100%;
-    height: 100%;
+    width:100%;
+    height:100%;
 
-    background: rgba(255,255,255,0.3);
+    background:rgba(255,255,255,0.35);
 
-    z-index: -1;
+    z-index:-1;
+
+    pointer-events:none;
 }
     
 </style>
@@ -220,13 +222,13 @@ th, td {
 
 <body>
 
-<div id="overlay">
+
 
 <video id="bg-video" autoplay muted loop playsinline>
     <source src="https://torokoid.github.io/usurer_temp/background.mp4" type="video/mp4">
 </video>
 
-</div>
+<div id="overlay"></div>
 
 <p class="note">
 モバイル端末をお使いの場合は、画面を横向きにすると
