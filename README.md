@@ -222,11 +222,11 @@ th, td {
 
 <div id="overlay">
 
-
 <video id="bg-video" autoplay muted loop playsinline>
     <source src="https://torokoid.github.io/usurer_temp/background.mp4" type="video/mp4">
 </video>
 
+</div>
 
 <p class="note">
 モバイル端末をお使いの場合は、画面を横向きにすると
@@ -456,7 +456,7 @@ th, td {
 
 <br><br><br>
 
-</div>
+
 
 
 
